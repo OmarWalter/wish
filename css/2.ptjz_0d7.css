@@ -68,7 +68,7 @@
 }
 
 .background-image.svelte-rd9wr8 {
-    background-color: blue;
+    background-image: url(../stg_generic_thumbnail.webp);
     opacity: 40%;
     background-repeat: no-repeat;
     background-size: cover;
